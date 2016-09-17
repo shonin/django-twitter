@@ -22,9 +22,9 @@ into the mix.
 ## Setup
 
 #### env vars:
-* 'ENVIRONMENT' == ('prod', 'test', or 'dev') defaults to prod
-* 'REDIS_URL' == your full redis url, no default
-* 'SECRET_KEY' == a secret key, this will default to the one in the 
+* `ENVIRONMENT ==` ('prod', 'test', or 'dev') defaults to prod
+* `REDIS_URL ==` your full redis url, no default
+* `SECRET_KEY ==` a secret key, this will default to the one in the 
 source code, so be sure that you change it. 
 
 #### twitter config
@@ -39,3 +39,6 @@ source code, so be sure that you change it.
 * serve static assets from s3
 * cache templates
 * get twitter config values from env vars
+* remove normalidea styling
+* rename project and app from normal idea to something else
+* restructure to be a django app instead of a project / app
