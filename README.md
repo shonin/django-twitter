@@ -42,3 +42,4 @@ source code, so be sure that you change it.
 * remove normalidea styling
 * rename project and app from normal idea to something else
 * restructure to be a django app instead of a project / app
+* write test coverage
