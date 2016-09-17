@@ -1,0 +1,9 @@
+
+twitter_config.txt
+
+*.pyc
+*.idea
+__pycache__/**
+idea/migrations/__pycache__/
+idea/templates/
+*.DS_Store
